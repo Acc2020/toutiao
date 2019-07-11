@@ -10,4 +10,5 @@ public class ToutiaoApplication {
 		SpringApplication.run(ToutiaoApplication.class, args);
 	}
 
+
 }
